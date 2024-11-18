@@ -12,6 +12,7 @@ The goal of this project is to ensure the correct functioning of JSONPlaceholder
 - Maven
 - RestAssured library
 - JUnit
+- Allure
 
 ## Project Setup
 
@@ -19,3 +20,11 @@ The goal of this project is to ensure the correct functioning of JSONPlaceholder
 
    ```bash
    git clone https://github.com/beyzatsdln/JsonPlaceholder.git
+
+2. Get a report
+   mvn clean test
+
+3. Report 
+
+ ![2024-11-18_14-59-45](https://github.com/user-attachments/assets/6a645c35-20a8-403a-96a2-0cef3c9c279e)
+
